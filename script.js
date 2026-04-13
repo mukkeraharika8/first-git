@@ -45,4 +45,11 @@ const users=[
 ]
 console.log(users[0].name);
 
+function myFun(){
+    console.log(-1);
+    return-1
+}
+
+console.log(myFun);
+console.log(myFun());
 
