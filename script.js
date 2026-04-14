@@ -35,21 +35,34 @@
 
 // console.log(obj);
 
-const users=[
-    {
-        id:1,
-        name:"user",
-        loc:"hyd"
 
-    }
-]
-console.log(users[0].name);
 
-function myFun(){
-    console.log(-1);
-    return-1
-}
+// function add(num1,num2){
+//     return num1+num2
+// }
+// console.log(add(32,2));
 
-console.log(myFun);
-console.log(myFun());
+// function add(num1,num2){
+//     return num1-num2
+// }
+// console.log(add(36,6));
+
+// const myFun=function add(num1,num2){
+//     return num1+num2
+// }
+// console.log(myFun(33,3));
+
+
+//domath(num1,num2,operation)
+
+
+//day4
+
+let name= "harika";
+let age= "22";
+console.log("My name is " +name+ " .she is "+age);
+console.log(`My name is ${name}.she is ${age}`);
+
+
+
 
